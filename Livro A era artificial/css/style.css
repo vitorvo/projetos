@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'tahoma';
+}
+
+main div{
+    max-width: 100%;
+    border: 1px solid rgb(235, 231, 231);
+    text-align: center;
+    padding: 30px;
+}
+
+main div h1, h2, h3, p{
+    margin: 30px;
+}
+
+.bolder{
+    margin: 30px;
+    font-weight: bold;
+}
+
+main div img{
+    width: 300px;
+}
+
+main a {
+    background-color: green;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+}
+
