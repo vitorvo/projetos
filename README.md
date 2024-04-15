@@ -1,2 +1,2 @@
 # projetos
- meus primeiro projetos feitos nos cursos html e css
+ Meus primeiro projetos feitos nos cursos html e css
